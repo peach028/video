@@ -1,4 +1,6 @@
-# video
+![image](https://github.com/user-attachments/assets/7c99e2b7-8e64-46b9-bc50-6ce7c48a74bc)# video
 简单的随机视频播放 读取sp.txt文档里面的视频链接
 文档里面链接自己添加 php版本7.4就行了
 0.0.1为最新版本直接下载就行
+
+声明：此源码个人娱乐用途 非商用 如果非商用出现问题都与本人无关
